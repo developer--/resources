@@ -3,4 +3,6 @@
 
 https://infinum.co/the-capsized-eight/articles/top-5-android-libraries-every-android-developer-should-know-about
 
+
+http://blog.teamtreehouse.com/android-libraries-use-every-project
 —————————————————————————————————————————————————————————————————————————————————————
