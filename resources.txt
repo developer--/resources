@@ -30,3 +30,9 @@ https://github.com/balysv/material-ripple
 http://android-crap.blogspot.com/2013/02/create-bitmap-from-layoutview.html
 
 —————————————————————————————————————————————————————————————————————————————————————
+
+				about view focus and listeners
+				
+http://www.101apps.co.za/index.php/articles/what-you-should-know-about-android-touch-mode-and-focus.html
+
+—————————————————————————————————————————————————————————————————————————————————————
