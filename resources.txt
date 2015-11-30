@@ -36,3 +36,11 @@ http://android-crap.blogspot.com/2013/02/create-bitmap-from-layoutview.html
 http://www.101apps.co.za/index.php/articles/what-you-should-know-about-android-touch-mode-and-focus.html
 
 —————————————————————————————————————————————————————————————————————————————————————
+
+
+				java serialization
+				
+http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.html
+
+
+—————————————————————————————————————————————————————————————————————————————————————
