@@ -44,3 +44,11 @@ http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.ht
 
 
 —————————————————————————————————————————————————————————————————————————————————————
+
+
+
+				Android Annotations 
+				
+http://androidannotations.org/
+
+—————————————————————————————————————————————————————————————————————————————————————
