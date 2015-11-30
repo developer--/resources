@@ -52,3 +52,11 @@ http://javarevisited.blogspot.com/2011/04/top-10-java-serialization-interview.ht
 http://androidannotations.org/
 
 —————————————————————————————————————————————————————————————————————————————————————
+
+
+				More Libraries ;)
+
+https://github.com/codepath/android_guides/wiki/Must-Have-Libraries
+
+
+—————————————————————————————————————————————————————————————————————————————————————
