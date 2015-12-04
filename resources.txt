@@ -60,3 +60,15 @@ https://github.com/codepath/android_guides/wiki/Must-Have-Libraries
 
 
 —————————————————————————————————————————————————————————————————————————————————————
+
+
+				Material
+http://inthecheesefactory.com/blog/android-design-support-library-codelab/en
+
+
+
+			Hello Percent Support Library
+				
+http://inthecheesefactory.com/blog/know-percent-support-library/en
+
+—————————————————————————————————————————————————————————————————————————————————————
