@@ -71,4 +71,8 @@ http://inthecheesefactory.com/blog/android-design-support-library-codelab/en
 				
 http://inthecheesefactory.com/blog/know-percent-support-library/en
 
+
+				blog
+			
+http://inthecheesefactory.com/blog
 —————————————————————————————————————————————————————————————————————————————————————
