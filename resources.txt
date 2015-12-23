@@ -76,3 +76,10 @@ http://inthecheesefactory.com/blog/know-percent-support-library/en
 			
 http://inthecheesefactory.com/blog
 —————————————————————————————————————————————————————————————————————————————————————
+
+
+				Multidex
+				
+https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.cczaxtelz
+
+—————————————————————————————————————————————————————————————————————————————————————
