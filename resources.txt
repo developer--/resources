@@ -89,3 +89,9 @@ https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b4
 http://androidweekly.net/
 
 —————————————————————————————————————————————————————————————————————————————————————
+
+				Generate Proguared for Libraries
+				
+https://proguard.herokuapp.com/
+
+—————————————————————————————————————————————————————————————————————————————————————
