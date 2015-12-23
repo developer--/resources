@@ -83,3 +83,9 @@ http://inthecheesefactory.com/blog
 https://medium.com/groupon-eng/android-s-multidex-slows-down-app-startup-d9f10b46770f#.cczaxtelz
 
 —————————————————————————————————————————————————————————————————————————————————————
+
+			Android Weekly
+
+http://androidweekly.net/
+
+—————————————————————————————————————————————————————————————————————————————————————
